@@ -5,6 +5,7 @@ A growing collection of reusable visual-style skills for image and video generat
 ## Included skills
 
 - [`iphone-computational-photography`](skills/iphone-computational-photography/SKILL.md) — realistic high-end iPhone computational-photography treatment for still images and video.
+- [`editorial-analogy-style`](skills/editorial-analogy-style/SKILL.md) — restrained woodcut/editorial treatment for conceptual scenes that combine everyday systems with technology analogies.
 
 ## Repository layout
 
